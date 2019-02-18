@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
 	<title>Conoce el perú</title>
@@ -31,7 +31,7 @@
 					<table>
 						<tr>
 							<td>
-								<h1><center>Conoce el Perú</center></h1>
+								<h1><center>Conoce el Perú y Arequipa</center></h1>
 							</td>
 						</tr>
 						<tr>
