@@ -28,7 +28,7 @@
 		<div id="tabla"></div>
 	</div>
 
-	<!-- Modal para registros nuevos -->
+	<!-- Modal para registros nuevos nuevos -->
 
 
 <div class="modal fade" id="modalNuevo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
