@@ -58,7 +58,7 @@
   </div>
 </div>
 
-<!-- Modal para edicion de datos -->
+<!-- Modal para hgrytk de datos -->
 
 <div class="modal fade" id="modalEdicion" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog modal-sm" role="document">
